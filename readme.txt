@@ -1,6 +1,4 @@
-MILLENNIAL MEDIA PALINDROME FINDER CODE SAMPLE
-
-by Matthew Lesko (m.lesko@verizon.net)
+PALINDROME FINDER CODE SAMPLE
 
 The source file of particular interest is palindrome.CodeSample
 
@@ -33,7 +31,7 @@ I've included in the - cleaned up - example below:
 <data8>Was it Eliot's toilet I saw?</data8>
 <data3>Never odd or even</data3>
 <data10>How are you era who</data10>
-<data4>Too bad Ð I hid a boot</data4>
+<data4>Too bad ï¿½ I hid a boot</data4>
 <data5>Rats live on no evil star</data5>
 <data7>No trace; not one carton</data7>
 <data9>Murder for a jar of red rum</data9>
